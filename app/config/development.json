@@ -1,0 +1,10 @@
+{
+    "dbURI": "mongodb://temp:temp123@ds125862.mlab.com:25862/mychatapp_db",
+    "sessionSecret": "WeChat@456",
+    "fb":{
+        "clientID": "290905444827515",
+        "clientSecret": "0fd55daefec814fbfede3c78add47510",
+        "callbackURL": "//localhost:8443/auth/facebook/callback",
+        "profileFields": ["id", "displayName", "photos"]
+    }   
+}
